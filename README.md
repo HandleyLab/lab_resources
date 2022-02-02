@@ -18,6 +18,8 @@ Bioniformatics SOP Meeting: Ana J.
 # Lab Servers  
 | Server | Cores |  Memory  |  
 | --- | --- | --- |  
-| Endeavor | 64 | 126G |  
+| Endeavor * | 64 | 126G |  
 | Atlantis | 40 |  63G |  
 | Pathogen | 20 |  93G |  
+
+* Rest in Peace
