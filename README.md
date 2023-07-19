@@ -24,11 +24,12 @@ Bioniformatics SOP Meeting: Ana J.
 
 * Rest in Peace
 
-# lts space
+# lts space: df -h
 | Bucket | Size |  Use% *  |  
 | --- | --- | --- |  
 | /lts/sahlab/data1 | 10T | 100% |  
 | /lts/sahlab/data2 | 12T |  91% |  
 | /lts/sahlab/data3 | 15T | 100% |  
+| /lts/sahlab/data4 |  4T | 2% |  
 
 * last updated 07/18/2023 KM
