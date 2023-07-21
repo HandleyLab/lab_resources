@@ -30,6 +30,6 @@ Bioniformatics SOP Meeting: Ana J.
 | /lts/sahlab/data1 | 10T | 100% |  
 | /lts/sahlab/data2 | 12T |  91% |  
 | /lts/sahlab/data3 | 15T | 100% |  
-| /lts/sahlab/data4 |  4T | 2% |  
+| /lts/sahlab/data4 | 15T | 2% |  
 
 * last updated 07/18/2023 KM
